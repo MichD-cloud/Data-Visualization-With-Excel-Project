@@ -5,12 +5,11 @@ This project aims at analyzing sales data of goods falling in diferent segments,
 insights on changes in sales volumeand profit.
 
 ### Tools 
-Excel 
+ - Excel 
 
 ### Data Analysis 
-
-Analyzed data using pivot tables and ctreated a dashboard
-
-Used Slicers to filter data based on goods segments and categories
-
+ - Utilized Excel to analyze sales data of a company dealing with various category of goods with stores in various locations
+ - Performed several calculations on the data using Pivot Tables
+ - Visualized the data using an interactive dashboard with slicers
+ 
 <img width="567" alt="dashboard" src="https://github.com/user-attachments/assets/52795645-84ad-4ed1-8b89-b7651d19887a" />
