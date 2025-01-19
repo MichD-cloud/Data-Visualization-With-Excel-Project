@@ -2,7 +2,7 @@
 
 ### Project Overview
 This project aims at analyzing sales data of goods falling in diferent segments, and category over a two year period to gain
-insights on changes in sales volumeand profit.
+insights on trends in sales revenue and profits.
 
 ### Tools 
  - Excel 
